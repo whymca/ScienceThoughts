@@ -29,7 +29,8 @@ TL;DR:
 - Antibody tests are not very useful except in a few situations. 
 
 # Cool, so which test do I use?
-I'd argue that this should be driven first by your use-case (personal vs. am I contagious to others?), then by how likely it is you think you actually have COVID (your "pre-test probability")--if the use-case is personal, get a PCR, and if the pre-test probability is high, Examples might be:
+I'd argue that this should be driven first by your use-case (personal vs. am I contagious to others?), then by how likely it is you think you actually have COVID (your "pre-test probability")--if the use-case is personal or if the pre-test probability is higher, get a PCR. Examples might be:
+
 Ex1: "I've lost my sense of taste and smell, feel super sick, and mildly short of breath, and I'm wondering if I might need me some of those Regeneron antibody cocktails"-- In this example, the use-case is primarily personal as treatment would differ radically based on a positive vs. negative test. In addition, in this particular example, the pre-test probability of not only infection but also infectiousness is also very high. Thus, the most sensitive test for viral particles--a PCR test--is probably best, as this reduces the chances of a false negative result and maximizes the chance that you would receive appropriate treatment. 
 
 Ex2: "I have a mild sniffle brand new this morning but otherwise feel fine and am about to meet friends later today" -- here, the use-case is primarily determining whether you'd get others sick. If you weren't visiting friends, the result (positive or negative for COVID) wouldn't make a huge difference in your life and the treatment would be the same: rest and feel better. Of note, in this example, the pre-test probability that you have COVID is much lower-->so the difference between a "pretty good test" and "the best test for viral particles" also makes less of a difference. Thus, I'd use a rapid-antigen test. 
